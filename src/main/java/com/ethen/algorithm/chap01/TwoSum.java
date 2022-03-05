@@ -1,14 +1,17 @@
-package com.ethen.algorithm;
+package com.ethen.algorithm.chap01;
 
 /**
  * 双指针问题
- * https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20%E9%A2%98%E8%A7%A3%20-%20%E5%8F%8C%E6%8C%87%E9%92
- * %88.md
+ * <p>
+ * 给你一个下标从 1 开始的整数数组 numbers ，该数组已按 非递减顺序排列  ，请你从数组中找出满足相加之和等于目标数 target 的两个数。如果设这两个数分别是 numbers[index1] 和
+ * numbers[index2] ，则 1 <= index1 < index2 <= numbers.length 。
+ * <p>
+ * https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/
  *
  * @author ethenyang@126.com
  * @since 2022/02/24
  */
-public class DoublePoint {
+public class TwoSum {
 
 
     /**
