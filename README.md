@@ -1,6 +1,4 @@
-# 数据结构与算法学习
-
-## Leetcode 题解
+## 数据结构与算法学习(LeetCode题解)
 
 <br>转自 https://github.com/CyC2018/CS-Notes
 
