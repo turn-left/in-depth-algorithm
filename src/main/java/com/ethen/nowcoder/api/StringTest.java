@@ -16,5 +16,7 @@ public class StringTest {
         System.err.println("bytesLength:" + origin.getBytes().length);
 
         System.err.println(charArray);
+        char a ='a';
+        System.err.println((char) (a-32));
     }
 }
