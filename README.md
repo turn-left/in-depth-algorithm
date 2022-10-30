@@ -6,6 +6,11 @@
 
 本文从 Leetcode 中精选大概 200 左右的题目，去除了某些繁杂但是没有多少算法思想的题目，同时保留了面试中经常被问到的经典题目。
 
+### 算法学习&刷题
+
+- [labuladong 的算法小抄](https://github.com/turn-left/fucking-algorithm)
+- [学习算法和刷题的框架思维](https://labuladong.gitee.io/algo/1/2/)
+
 ### 算法思想
 
 - [双指针](/docs/Leetcode%20题解%20-%20双指针.md)

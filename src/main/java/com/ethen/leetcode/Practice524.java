@@ -12,7 +12,6 @@ import java.util.PriorityQueue;
  * @since 2022/10/11
  */
 public class Practice524 {
-
     private static final String EMPTY = "";
 
     public static void main(String[] args) {
