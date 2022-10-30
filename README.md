@@ -10,6 +10,7 @@
 
 - [labuladong 的算法小抄](https://github.com/turn-left/fucking-algorithm)
 - [学习算法和刷题的框架思维](https://labuladong.gitee.io/algo/1/2/)
+- [数据结构与算法学习路线（建议收藏🔥）](https://tobebetterjavaer.com/xuexiluxian/algorithm.html)
 
 ### 算法思想
 
