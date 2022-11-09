@@ -1,5 +1,9 @@
 package com.ethen.leetcode.model;
 
+
+import lombok.ToString;
+
+@ToString
 public class ListNode {
     public int val;
     public ListNode next;
